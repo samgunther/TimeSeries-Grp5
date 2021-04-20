@@ -1,0 +1,11 @@
+Chicago Data and Dictionary(Mar-20 thru Sep-20)
+https://aot-file-browser.plenar.io/data-sets/chicago-complete
+
+AoT Explained
+https://datasmart.ash.harvard.edu/news/article/a-guide-to-chicagos-array-of-things-initiative-1190
+
+Chicago sensor locations:
+https://data.cityofchicago.org/Environment-Sustainable-Development/Array-of-Things-Locations-Map/2dng-xkng
+
+Environmental sensory diagrams:
+https://github.com/waggle-sensor/sensors/tree/master/sensors/images
